@@ -1,0 +1,27 @@
+#wow {
+    color:rgb(145, 166, 207);
+    font-family: MS SERIF;
+    font-size: 24;
+}
+
+.owo{
+    color:white;
+    font-family: 바탕;
+    font-size: 18;
+}
+
+body{
+    text-align : center;
+    background-color: rgb(245,201,201);
+}
+
+img{
+    width:300px;
+    height: 300px;
+}
+
+h1 {
+    color:white;
+    font-family: fantasy;
+
+}
